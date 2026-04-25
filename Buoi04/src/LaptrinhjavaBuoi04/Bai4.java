@@ -36,8 +36,8 @@ public class Bai4 {
 				}
 				
 			}
-			System.out.println("Tong so le : " + sole );
-			System.out.println("Tong so chan : " + sochan );
+			System.out.println("Tong cua so le : " + sole );
+			System.out.println("Tong cua so chan : " + sochan );
 
 			for (int i = 0; i < n ; i++)
 			{
