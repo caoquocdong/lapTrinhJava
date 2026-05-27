@@ -1,17 +1,17 @@
 package domain;
 
 public class Person {
-	private int idperson;
+	private int idPerson;
 	private String name;
 	
 	public int getIdperson()
 	{
-		return idperson;
+		return idPerson;
 	}
 	
 	public void setIdPerson(int idperson)
 	{
-		this.idperson = idperson;
+		this.idPerson = idperson;
 	}
 	
 	public String getname()
@@ -27,7 +27,7 @@ public class Person {
 	//@override
 	public String toString()
 	{
-		return "person{"+ "idperson=" + idperson + ", name =" + name + '}';
+		return "person{"+ "idperson=" + idPerson + ", name =" + name + '}';
 	}
 
 }
