@@ -16,7 +16,7 @@ public class JavaConnection {
             conn = DriverManager.getConnection(
                     "jdbc:mysql://localhost:3306/QuanLyKhoa",
                     "CaoQuocDong",
-                    "206922AAbbcc.");
+                    "**********");
 
             System.out.println("Ket noi thanh cong");
 
